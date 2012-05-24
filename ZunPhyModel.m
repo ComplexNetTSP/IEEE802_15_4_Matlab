@@ -89,7 +89,7 @@ S=[6.0 -3.3; -3.3 3.7];
 % variables:
 %   covariance matrix COVM = T' x T
 %   T is a 2x2 upper triangular 
-%       P_T   = P_T + T(1,1)* rn1
+%       P_T   = P_T + T(1,1) * rn1
 %       P_N   = P_N + T(1,2) * rn1 + T(2,2) * rn2
 %  where rn1 and rn2 are normal(0,1) random variables.
             
