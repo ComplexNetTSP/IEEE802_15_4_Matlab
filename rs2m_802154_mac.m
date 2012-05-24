@@ -1,4 +1,27 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Copyright (c) 2012 Telecom SudParis.
+%
+% Permission is hereby granted, free of charge, to any person obtaining
+% a copy of this software and associated documentation files (the
+% "Software"), to deal in the Software without restriction, including
+% without limitation the rights to use, copy, modify, merge, publish,
+% distribute, sublicense, and/or sell copies of the Software, and to
+% permit persons to whom the Software is furnished to do so, subject to
+% the following conditions:
+%
+% The above copyright notice and this permission notice shall be included
+% in all copies or substantial portions of the Software.
+%
+% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+% EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+% MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+% IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+% CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+% TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+% SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % MATLAB M-file rs2m_802154_mac.m
 % Authors : Mohamed-Haykel Zayani and Vincent Gauthier
 % Emails : {mohamed-haykel.zayani, vincent.gauthier}@it-sudparis.eu
@@ -17,10 +40,10 @@
 % inspired from the IEEE 802.11 Model [2] developed by David Griffith and
 % Michael Souryal (Emerging and Mobile Network Technologies Group,
 % Information Technology Laboratory, National Institute of Standards and
-% Technology). The objective behind this ìadaptationî is to model a physical
+% Technology). The objective behind this "adaptation" is to model a physical
 % layer (PHY), including path loss and shadowing effects. The particularity
 % of the proposed model lies in overstepping the node range disk shaped and
-% taking into consideration the called ìtransitional areaî. The model
+% taking into consideration the called ‚Äútransitional area‚Äù. The model
 % relies on the approach of Zuniga and Krishnamachari (references are in
 % ZunPhyModel.m file). The function ZunPhyModel performs the calculations
 % at the PHY level and determines the probability of good frame reception
@@ -41,9 +64,9 @@
 % Conference, Macau, pp. 130-139, 2009.
 %
 % [3] Pollin, S., Ergen, L., Ergen, S. C., Bougard, B., Catthoor, F.,
-% Bahai,A., and Varaiya, P., ìPerformance analysis of slotted carrier sense
-% IEEE 802.15.4 acknowledged uplink transmissions,î in Proc. of IEEE WCNC,
-% pp. 1559ñ1564, 2008.
+% Bahai,A., and Varaiya, P., ‚ÄúPerformance analysis of slotted carrier sense
+% IEEE 802.15.4 acknowledged uplink transmissions,‚Äù in Proc. of IEEE WCNC,
+% pp. 1559‚Äì1564, 2008.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 clear all;
