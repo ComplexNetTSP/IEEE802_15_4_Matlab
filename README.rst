@@ -2,7 +2,7 @@ Matlab Code of the implementation of IEEE 802.15.4 Mac/Phy Layer
 ================================================================
 
 :Info: See `the site <http://bit.ly/T4INBK>`_ for more information. See `GitHub <http://bit.ly/TuTdup>`_ for the latest source.
-:Author:Mohamed-Haykel Zayani & Vincent Gauthier
+:Author: Mohamed-Haykel Zayani & Vincent Gauthier
 :Maintainer: Vincent Gauthier <vgauthier@luxbulb.org>
 
 Description
