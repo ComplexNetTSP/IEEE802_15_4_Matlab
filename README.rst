@@ -7,7 +7,7 @@ Matlab Code of the implementation of IEEE 802.15.4 Mac/Phy Layer
 
 Description
 -----------
-Matlab Code of the implementation of IEEE 802.15.4 Mac/Phy Layer. More information about the code could be found in the followinf paper:
+Matlab Code of the implementation of IEEE 802.15.4 Mac/Phy Layer. More information about the code could be found in the following paper:
 
 * M.-H. Zayani,  V. Gauthier, D. Zeghlache, , A joint model for IEEE 802.15.4 physical and medium access control layers, in Wireless Communications and Mobile Computing Conference (IWCMC), 2011 7th International, pp.814-819, 4-8 July 2011. `\[URL\] <http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5982651&isnumber=5982406>`_
 
