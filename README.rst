@@ -9,7 +9,7 @@ Description
 -----------
 Matlab Code of the implementation of IEEE 802.15.4 Mac/Phy Layer. More information about the code could be found in the followinf paper:
 
-[1] M.-H. Zayani,  V. Gauthier, D. Zeghlache, , "[A joint model for IEEE 802.15.4 physical and medium access control layers,](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5982651&tag=1)" in Wireless Communications and Mobile Computing Conference (IWCMC), 2011 7th International, pp.814-819, 4-8 July 2011
+[1] M.-H. Zayani,  V. Gauthier, D. Zeghlache, , " .. A joint model for IEEE 802.15.4 physical and medium access control layers, : http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5982651&tag=1 " in Wireless Communications and Mobile Computing Conference (IWCMC), 2011 7th International, pp.814-819, 4-8 July 2011
 doi: 10.1109/IWCMC.2011.5982651
 
 Introduction
@@ -37,4 +37,4 @@ References
 
 .. [3] Zuniga, M., and Krishnamachari, B., “An analysis of unreliability and asymmetry in lowpower wireless links,” ACM Trans. Sensor Netw., 2007.
 
-.. [4] M.-H. Zayani,  V. Gauthier, D. Zeghlache, , "[A joint model for IEEE 802.15.4 physical and medium access control layers,](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=5982651&tag=1)" in Wireless Communications and Mobile Computing Conference (IWCMC), 2011 7th International, pp.814-819, 4-8 July 2011.
+.. [4] M.-H. Zayani,  V. Gauthier, D. Zeghlache, , "A joint model for IEEE 802.15.4 physical and medium access control layers," in Wireless Communications and Mobile Computing Conference (IWCMC), 2011 7th International, pp.814-819, 4-8 July 2011.
